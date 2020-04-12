@@ -2,9 +2,7 @@
 
 ---
 
-![demo.png](demo.png)
-
-<image src="demo.png">
+<image src="demo.png" height="400px" width = "auto">
 
 ### css 초기화 하기
 
