@@ -2,6 +2,10 @@
 
 ---
 
+![demo.png](demo.png)
+
+<image src="demo.png">
+
 ### css 초기화 하기
 
 reset.css
